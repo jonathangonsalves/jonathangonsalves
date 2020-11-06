@@ -11,7 +11,7 @@ I'm a brazillian data engineer and computer engineering student. I'm passionate 
 
 🎓   Computer Engineering Student @ Positivo University
 
-[<img align="left" alt="confere" width="20px" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/589/confere-logo.png" />][confere] Working at Confere Cartões
+[<img align="left" alt="confere" width="20px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGZ108LeTMGbA/company-logo_200_200/0?e=2159024400&v=beta&t=YOk8DxE2UfG3FUbrVoVuWlpme0c0PtISssG_S5yKdQE" />][confere] Data Engineer Jr. at Banco Bari
 <br /> 
 
 :brazil: :us: :de: Trilingual
