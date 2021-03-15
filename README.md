@@ -12,10 +12,11 @@
   self-learner and I love the data world!
   Feel free to send me a message! !
   
-  <br />
+
+  ---
   
-  [John's githubstats](https://github-readme-stats.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangonsalves&layout=compact&hide_border=true&count_private=true&hide=vue)](https://github.com/jonathangonsalves?tab=repositories)
+![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangonsalves&layout=compact&hide_border=true&count_private=true&hide=vue)](https://github.com/jonathangonsalves?tab=repositories)
 
   <h2>About me</h2>
 
