@@ -2,41 +2,26 @@
   <h3 align="center">Data Engineer</h3>
 
   <p align="center">
-    <!-- <a href="https://dev.to/leozz37"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp; -->
-    <a href="https://www.linkedin.com/in/jonathangonsalves/"
-      ><img
-        height="30"
-        src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a
-    >&nbsp;&nbsp;
-    <a href="https://twitter.com/developedbyjohn"
-      ><img
-        height="30"
-        src="https://image.flaticon.com/icons/svg/733/733579.svg" /></a
-    >&nbsp;&nbsp;
-    <a href="https://www.instagram.com/jonathangonsalves_/?hl=pt-br"
-      ><img
-        height="30"
-        src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" /></a
-    >&nbsp;&nbsp;
-    <!-- <a href="https://open.spotify.com/user/jonathangonsalves?si=OqyBabsEQTKYZDxEy0MoFQ"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg"></a>&nbsp;&nbsp; -->
-    <a href="https://www.youtube.com/channel/UCgaPJd8C4DtGc1oykjhHs2w"
-      ><img
-        height="30"
-        src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1615834533~hmac=7d18aaeb12066b6afafe1be045d9237b" /></a
-    >&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jonathangonsalves/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
+    <a href="https://twitter.com/developedbyjohn"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg" /></a>
+    <a href="https://www.instagram.com/jonathangonsalves_/?hl=pt-br"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" /></a>
+    <a href="https://www.youtube.com/channel/UCgaPJd8C4DtGc1oykjhHs2w" ><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1615834533~hmac=7d18aaeb12066b6afafe1be045d9237b" /></a>
   </p>
 
   I'm a data engineer and mobile/web developer as a hobby. I'm a active
-  self-learner and I love the data world!<br />
-  Feel free to send me a message! ![Leozz37 github
-  stats](https://github-readme-stats.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)[![Top
-  Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangonsalves&layout=compact&hide_border=true&count_private=true&hide=vue)](https://github.com/leozz37?tab=repositories)
+  self-learner and I love the data world!
+  Feel free to send me a message! !
+  
+  <br />
+  
+  [John's githubstats](https://github-readme-stats.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangonsalves&layout=compact&hide_border=true&count_private=true&hide=vue)](https://github.com/jonathangonsalves?tab=repositories)
 
   <h2>About me</h2>
 
-  🇧🇷 Living in Brazil 🎓 Computer Engineering Student @ [Universidade
-  Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo) 🏢 Data
-  Engineer at [Banco Bari Digital](https://bancobari.com.br/)
+  🇧🇷 Living in Brazil
+  🎓 Computer Engineering Student @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo) 
+  🏢 Data Engineer at [Banco Bari Digital](https://bancobari.com.br/)
 
   <br><br />
 
