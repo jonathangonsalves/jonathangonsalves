@@ -1,24 +1,30 @@
-# Hi there, I'm Jonathan
-I'm a brazillian data engineer and computer engineering student. I'm passionate about big data and how it can help us on our daily problems. You're free to send me a message!
+# Hello, I'm John
+I'm a brazillian Data Engineer, undergraduate computer engineering student and hobby-Web/Mobile developer. <br />
+I'm passionate about big data and how it can help us on our daily problems. <br />
+Feel free to send me a message!
+
+### Curiosities
+
+🇧🇷   From Brazil
+🎓   Computer Engineering Student @ Positivo University
+[<img align="left" alt="confere" width="20px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGZ108LeTMGbA/company-logo_200_200/0?e=2159024400&v=beta&t=YOk8DxE2UfG3FUbrVoVuWlpme0c0PtISssG_S5yKdQE" />][confere] Data Engineer Jr. at Banco Bari
+<br /> 
+:brazil: :us: :de: Trilingual
+<br /> 
+
+
+### Articles
+[Six Lessons I've Learned in My First Year as a Data Engineer][lessons_article]
+
+
+### Youtube
+[Dev John Youtube Channel][youtube]
+
 
 ![teste](https://github-readme-stats-one-eta.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true)
 
 <br />
 
-### Curiosities
-
-🇧🇷   From Curitiba/Paraná, Brazil
-
-🎓   Computer Engineering Student @ Positivo University
-
-[<img align="left" alt="confere" width="20px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGZ108LeTMGbA/company-logo_200_200/0?e=2159024400&v=beta&t=YOk8DxE2UfG3FUbrVoVuWlpme0c0PtISssG_S5yKdQE" />][confere] Data Engineer Jr. at Banco Bari
-<br /> 
-
-:brazil: :us: :de: Trilingual
-<br /> 
-
-### Articles
-[Six Lessons I've Learned in My First Year as a Data Engineer][lessons_article]
 
 ### Languages and Tools:
 #### Data Engineering
@@ -38,7 +44,6 @@ I'm a brazillian data engineer and computer engineering student. I'm passionate 
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Apache_Sqoop_logo.svg/1280px-Apache_Sqoop_logo.svg.png" />
 <img align="left" width="26px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />
-<br />
 
 #### Mobile
 <img align="left" width="26px" src="https://ih1.redbubble.net/image.1057190214.1918/flat,750x1000,075,f.u1.jpg" />
@@ -70,3 +75,4 @@ I'm a brazillian data engineer and computer engineering student. I'm passionate 
 [instagram]: https://www.instagram.com/jonathangonsalves_/
 [linkedin]: https://www.linkedin.com/in/jonathangonsalves/
 [lessons_article]: https://www.linkedin.com/pulse/six-lessons-ive-learned-my-first-year-data-engineer-gonsalves-/
+[youtube]:https://www.youtube.com/channel/UCgaPJd8C4DtGc1oykjhHs2w
