@@ -20,11 +20,10 @@
 
   <h2>About me</h2>
 
-  🇧🇷 Living in Brazil
-  🎓 Computer Engineering Student @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo) 
-  🏢 Data Engineer at [Banco Bari Digital](https://bancobari.com.br/)
+  🇧🇷 Living in Brazil <br />
+  🎓 Computer Engineering Student @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo)  <br />
+  🏢 Data Engineer at [Banco Bari Digital](https://bancobari.com.br/) <br />
 
-  <br><br />
 
   <p align="center">
   <img
@@ -52,7 +51,6 @@
     width="26px"
     src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"
   />
-  <br><br />
   <img
     align="left"
     width="26px"
@@ -105,7 +103,6 @@
     width="26px"
     src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png"
   />
-  <br><br />
   <img
     align="left"
     width="26px"
