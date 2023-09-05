@@ -16,7 +16,7 @@
 
 
   
-  <h3 align="left">About Me</h3>
+  <h3 align="left">About Me</h3> 
 
   - 🇧🇷 Living in Brazil <br/>
   - 💬 You can reach me on [Linkedin](https://www.linkedin.com/in/jonathangonsalves/)
