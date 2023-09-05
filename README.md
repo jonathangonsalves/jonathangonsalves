@@ -1,137 +1,65 @@
-  <h1 align="center">Hello, I'm John!</h1>
-  <h3 align="center">Data Engineer</h3>
+  <h1 align="center">Hello 👋, I'm John!</h1>
+  <h3 align="center">I write about data engineering | data pipelines | software management | productivity </h3>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jonathangonsalves/"><img height="30" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
-    <a href="https://twitter.com/developedbyjohn"><img height="30" src="https://image.flaticon.com/icons/svg/733/733579.svg" /></a>
-    <a href="https://www.instagram.com/jonathangonsalves_/?hl=pt-br"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" /></a>
-    <a href="https://www.youtube.com/channel/UCgaPJd8C4DtGc1oykjhHs2w" ><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1615834533~hmac=7d18aaeb12066b6afafe1be045d9237b" /></a>
+    <a href="https://www.linkedin.com/in/jonathangonsalves/">
+      <img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"/></a>
+    <a href="https://www.instagram.com/jonathangonsalves_/?hl=pt-br">
+      <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" height="30" width="30" /></a>
+    <a href="https://www.youtube.com/channel/UCgaPJd8C4DtGc1oykjhHs2w" >
+      <img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
   </p>
 
-  I'm a data engineer and mobile/web developer as a hobby. I'm a active
-  self-learner and I love the data world!
-  Feel free to send me a message! !
-  
-
   ---
+<!--   
+![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) -->
+
+
   
-![Leozz37 github stats](https://github-readme-stats.vercel.app/api?username=jonathangonsalves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangonsalves&layout=compact&hide_border=true&count_private=true&hide=vue)](https://github.com/jonathangonsalves?tab=repositories)
+  <h3 align="left">About Me</h3>
 
-  <h2>About me</h2>
+  - 🇧🇷 Living in Brazil <br/>
+  - 💬 You can reach me on [Linkedin](https://www.linkedin.com/in/jonathangonsalves/)
+  - 🎓 BSc on Computer Engineering  <br/>
+  - 🏢 Associate Director | Sr. Data Engineer @ [BTG Pactual](https://www.btgpactual.com/) <br/>
+  - 👨‍🏫 Teaching about Data Engineerng at [How Bootcamps](https://howedu.com.br/)
 
-  🇧🇷 Living in Brazil <br />
-  🎓 Computer Engineering Student @ [Universidade Positivo](https://en.wikipedia.org/wiki/Universidade_Positivo)  <br />
-  🏢 Data Engineer at [Banco Bari Digital](https://bancobari.com.br/) <br />
-
-
-  <p align="center">
-  <img
-    align="left"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://extendase.files.wordpress.com/2018/05/mongodb.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://jbasoftware.com/assets/img/software/grafana.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_white_bg.png?api=v2"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://images.techhive.com/images/article/2014/09/hadoop-elephant-100453407-orig.jpg"
-  />
-  <br><br />
-  <img
-    align="left"
-    width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Apache_Sqoop_logo.svg/1280px-Apache_Sqoop_logo.svg.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"
-  />
-
-  <img
-    align="left"
-    width="26px"
-    src="https://ih1.redbubble.net/image.1057190214.1918/flat,750x1000,075,f.u1.jpg"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://image.flaticon.com/icons/svg/226/226777.svg"
-  />
-  <img
-    align="left"
-    width="26px"
-    src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png"
-  />
-  <br><br />
-  <img
-    align="left"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"
-  />
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathangonsalves&show_icons=true&locale=en&layout=compact" alt="josephmachado" /></p>
