@@ -17,5 +17,5 @@
   - 🇧🇷 Living in Brazil <br/>
   - 💬 You can reach me on [Linkedin](https://www.linkedin.com/in/jonathangonsalves/)
   - 🎓 BSc on Computer Engineering  <br/>
-  - 🏢 Sr. Big Data Engineer @ [Caylent](https://caylent.com/) <br/>height="40"/> </a> 
+  - 🏢 Sr. Big Data Engineer @ [Caylent](https://caylent.com/) <br/> </a> 
 </p>
